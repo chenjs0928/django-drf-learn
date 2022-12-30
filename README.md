@@ -323,6 +323,4 @@ class RegisterView(APIView):
 
 ## 其他
 
-还有一些其他的模块，例如serializers等，整个模板工程我会上传到GitHub上，以供大家参考使用
-
-最后，作为一个模板工程，还欠缺**权限管理**系统，我们后面再完善
+代码源地址：https://github.com/xingxingzaixian/djangorestframework-tutorial
